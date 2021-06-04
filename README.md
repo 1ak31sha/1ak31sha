@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Github profile! 👋
+
+- 🔭 I’m currently working on React projects
+- 💬 Ask me about my Neovim/tmux/fish configuration (see my dotfiles repo)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/lakeisha-p-1a515933/)
+- 😄 Pronouns: She/her
+- ⚡ Hobbies: Gardening, Melee(fox main), working on my cars, cooking vegan
 
 <!--
 **1ak31sha/1ak31sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
