@@ -1,10 +1,13 @@
-### Welcome to my Github profile! 👋
+### Welcome to my Github profile! I'm Lakeisha 💁‍♀
 
-- 👩🔬 I’m currently working on React projects
-- 💬 Ask me about my Neovim/tmux/fish configuration (see my dotfiles repo)
-- 📫 How to reach me: [Snapchat 👻](https://www.snapchat.com/add/lakeishapogz) or [LinkedIn](https://www.linkedin.com/in/lakeisha-p-1a515933/)
+- 🔬 Currently working on React projects
+- 💬 Ask me about my neovim/tmux/fish configuration (see my dotfiles repo)
+- 📫 How to reach me:
+  - [Snapchat 👻](https://www.snapchat.com/add/lakeishapogz)
+  - [LinkedIn](https://www.linkedin.com/in/lakeisha-p-1a515933/)
+  - Email: lakeisha.pogrzeba@gmail.com
 - 💃 Pronouns: She/her
-- 🌱🎮🏎  Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=OX24wkkMEXs&t=3s)(fox main), working on my cars, [cooking vegan](www.lakeisha.ca)
+- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=OX24wkkMEXs&t=3s)(fox main), working on my cars, [cooking vegan](www.lakeisha.ca)
 
 
 
