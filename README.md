@@ -1,6 +1,6 @@
 ### Welcome to my Github profile! I'm Lakeisha 💁‍♀
 
-- 🔬 Currently working on React projects
+- 🔬 Currently working on React projects and a nextjs/MDX recipe blog
 - 💬 Ask me about my neovim/tmux/fish configuration (see my [dotfiles repo](https://github.com/1ak31sha/dotfiles))
 - 📫 How to reach me:
   - [Snapchat 👻](https://www.snapchat.com/add/lakeishapogz)
