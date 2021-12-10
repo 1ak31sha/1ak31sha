@@ -7,7 +7,7 @@
   - [LinkedIn](https://www.linkedin.com/in/lakeisha-p-1a515933/)
   - Email: lakeisha.pogrzeba@gmail.com
 - 💃 Pronouns: She/her
-- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=OX24wkkMEXs&t=3s) (fox main), working on my cars, [cooking vegan](https://www.lakeisha.ca)
+- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=OX24wkkMEXs&t=3s) (fox main), working on my cars, cooking vegan
 
 
 
