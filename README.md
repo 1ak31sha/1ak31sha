@@ -3,7 +3,7 @@
 - 🔬 Currently working on React projects and a nextjs/MDX recipe blog
 - 💬 Ask me about my neovim/tmux/fish configuration
 - 💃 Pronouns: She/her
-- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=OX24wkkMEXs&t=3s) (fox main), working on my cars, cooking vegan
+- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=GhxqIKcUW9U&list=PLCR3KcbG-XGsdM0IBlsQIzZInZtz_3XqH) (fox main), working on my cars, cooking vegan
 
 
 
