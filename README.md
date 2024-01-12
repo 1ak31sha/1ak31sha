@@ -1,9 +1,9 @@
 ### Welcome to my Github profile! I'm Lakeisha 💁‍♀
 
-- 🔬 Currently working on React projects and a nextjs/MDX recipe blog
+- 🔬 Currently working on Nextjs projects and a nextjs Melee rankings website
 - 💬 Ask me about my neovim/tmux/fish configuration
 - 💃 Pronouns: She/her
-- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=GhxqIKcUW9U&list=PLCR3KcbG-XGsdM0IBlsQIzZInZtz_3XqH) (fox main), working on my cars, cooking vegan
+- 🌱 Hobbies: Gardening, [Melee](https://www.youtube.com/watch?v=GhxqIKcUW9U&list=PLCR3KcbG-XGsdM0IBlsQIzZInZtz_3XqH) (fox main), cooking vegan
 
 
 
